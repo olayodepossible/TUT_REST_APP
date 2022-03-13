@@ -2,7 +2,7 @@
 module.exports = {
   apps: [
     {
-      name: 'meetup',
+      name: 'tut_meetup',
       script: 'bin/www',
       env_production: {
         NODE_ENV: 'production',
